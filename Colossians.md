@@ -18,6 +18,8 @@ ch { color: Plum }
             1. Paul thanks God for the Colossians' faith and love (1:3-8)
             2. Paul prays for the Colossians to walk in Christ (1:9-14)
     2. Christ, who is supreme over all, causes us to be holy and blameless (1:15-23)
+        1. Christ is supreme over all things (1:15-20)
+        2. Christ has reconciled us and made us holy and blameless (1:21-23)
     3. Walk in Christ (1:24 - 4:6)
     4. The saints who are with Paul greet the Colossians (4:7-18)
 
@@ -42,12 +44,12 @@ ch { color: Plum }
     * Has glorious might
 * Walk in a manner worthy of the Lord
     * Fully pleasing to Him
-    * Bearing fruit in every good work
-    * Increasing in knowledge of God
-    * Being strenthened in all power
-        * According to his glorious might
-        * For all endurance and patience with joy
-    * Giving thanks to the Father
+        * Bearing fruit in every good work
+        * Increasing in knowledge of God
+        * Being strenthened in all power
+            * According to his glorious might
+            * For all endurance and patience with joy
+        * Giving thanks to the Father
 * In Christ
     * faith in Christ Jesus
     * love in the Spirit
@@ -83,7 +85,16 @@ asking that <c>you</c> may be filled with the knowledge of <g>his</g> will in al
 so as to <u>walk in a manner worthy of the  <g>Lord</g>, fully pleasing to <g>him</g>:
 bearing fruit in every good work and increasing in the knowledge of <g>God</g>;
 being strenthened in all power, according to *<g>his</g> glorious might*,
-for all endurance and patience with joy; giving thanks to the <g>Father</u>,
-who</g> has qualified <c>you</c> to share in the inheritance of the <ch>saints in light</ch>.
+for all endurance and patience with joy; giving thanks to the <g>Father,
+who</g> has qualified <c>you</c> to share in the inheritance of the <ch>saints in light</ch></u>.
 <g>He</g> has delivered <ch>us</ch> from the domain of darkness and transferred <ch>us</ch> to the *kingdom of <g>his beloved Son</g>,*
 **in <g>whom</g>** <ch>we</ch> have redemption, the forgiveness of sins.
+
+He is the image of the invisible God, the firstborn of all creation.
+For by him all things were created, in heaven and on earth visible and invisible, whether thrones or dominions or rulers or authorities - all things were created through him and for him.
+And he is before all things, and in him all things hold together.
+And he is the head of the body, the church.
+He is the beginning, the firstborn from the dead, that in everything he might be preeminent.
+For in him the fullness of God was pleased to dwell, and through him to reconcile to himself all things, whether on earth or in heaven, making peace by the blood of his cross.
+
+And you, who once were alienated and hostile in mind, doing evil deeds, he has now reconciles in his body of flesh by his death, in order to present you holy and blameless and above reproach before him, if indeed you continue in the faith, stable and steadfast, not shifting from the hope of the gospel that you heard, which has been proclaimed in all creation under heaven, and of which I, Paul, became a minister.
