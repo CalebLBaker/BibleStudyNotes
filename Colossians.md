@@ -39,9 +39,6 @@ ch { color: Plum }
 
 ## Notes
 
-* Christ
-    * Has a kingdom
-    * Has glorious might
 * Walk in a manner worthy of the Lord
     * Fully pleasing to Him
         * Bearing fruit in every good work
@@ -58,6 +55,26 @@ ch { color: Plum }
 * God has
     * qualified us to share in the inheritance of his saints
     * delivered us from the domain of darkness and transferred us to Christ's kingdom
+* Christ
+    * Has a kingdom
+    * Has glorious might
+    * Is the image of God, the firstborn of all creation
+        * Because he created all things (they were created for him and through him)
+    * He is before all things and sustains all things
+    * He is the head of the church
+    * He is the beginning (of all things and of the resurrection), the firstborn from the dead
+        * Because the fullness of God dwells in him and reconciles all things through his sacrifice
+
+## 1:15-20
+
+| 1:15-16                                         | 1:18b-20                                  |
+| ----------------------------------------------- | ----------------------------------------- |
+| He is the Image of the invisible God            | He is the beginning                       |
+| the firstborn of all creation                   | the firstborn from the dead               |
+|                                                 | that in everything he might be preeminent |
+| For by him all things were created | For in him all the fullness of God was pleased to dwell, and through him to reconcile all things |
+| in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities | whether on earth or in heaven |
+| all things were created through him and for him | making peace by the blood of his cross    |
 
 ## Annotated Text
 
@@ -90,11 +107,14 @@ who</g> has qualified <c>you</c> to share in the inheritance of the <ch>saints i
 <g>He</g> has delivered <ch>us</ch> from the domain of darkness and transferred <ch>us</ch> to the *kingdom of <g>his beloved Son</g>,*
 **in <g>whom</g>** <ch>we</ch> have redemption, the forgiveness of sins.
 
-He is the image of the invisible God, the firstborn of all creation.
-For by him all things were created, in heaven and on earth visible and invisible, whether thrones or dominions or rulers or authorities - all things were created through him and for him.
-And he is before all things, and in him all things hold together.
-And he is the head of the body, the church.
-He is the beginning, the firstborn from the dead, that in everything he might be preeminent.
-For in him the fullness of God was pleased to dwell, and through him to reconcile to himself all things, whether on earth or in heaven, making peace by the blood of his cross.
+*<g>He</g> is the image of <g>the invisible God</g>, the firstborn of all creation.
+For by <g>him</g> all things were created, in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities - all things were created through <g>him</g> and for <g>him</g>.
+And <g>he</g> is before all things, and **in <g>him</g>** all things hold together.
+And <g>he</g> is the head of <ch>the body, the church</ch>.
+<g>He</g> is the beginning, the firstborn from the dead, that in everything <g>he</g> might be preeminent.
+For **in <g>him</g>** the fullness of <g>God</g> was pleased to dwell, and through <g>him</g> to reconcile to <g>himself</g> all things, whether on earth or in heaven, making peace by the blood of <g>his</g> cross.*
 
-And you, who once were alienated and hostile in mind, doing evil deeds, he has now reconciles in his body of flesh by his death, in order to present you holy and blameless and above reproach before him, if indeed you continue in the faith, stable and steadfast, not shifting from the hope of the gospel that you heard, which has been proclaimed in all creation under heaven, and of which I, Paul, became a minister.
+And <c>you, who</c> once were alienated and hostile in mind, doing evil deeds,
+<g>he</g> has now reconciles in <g>his</g> body of flesh by <g>his</g> death, in order to present <c>you</c> holy and blameless and above reproach before <g>him</g>,
+if indeed <c>you</c> continue in the faith, stable and steadfast,
+not shifting from the hope of the gospel that <c>you</c> heard, which \[the gospel\] has been proclaimed in all creation under heaven, and of which \[the gospel\] <pa>I, Paul</pa>, became a minister.
