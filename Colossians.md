@@ -20,7 +20,12 @@ ch { color: Plum }
     2. Christ, who is supreme over all, causes us to be holy and blameless (1:15-23)
         1. Christ is supreme over all things (1:15-20)
         2. Christ has reconciled us and made us holy and blameless (1:21-23)
-    3. Walk in Christ (1:24 - 4:6)
+    3. We are alive in Christ, so we should walk in him (1:24 - 4:6)
+        1. Paul suffers and struggles for the sake of the Colossians (1:24 - 2:5)
+        2. Christ made us alive in him, so we should walk in him (2:6-15)
+        3. With Christ we died to ceremonial regulations, so we should not accept judgment for them (2:16-23)
+        4. In Christ we died to sin and live to his righteous, so we should abstain from sin and walk in righteousness (3:1-17)
+        5. Interract with others in a right way (3:18 - 4:6)
     4. The saints who are with Paul greet the Colossians (4:7-18)
 
 ## Themes
