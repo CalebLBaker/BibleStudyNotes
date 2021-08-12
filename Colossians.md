@@ -22,6 +22,8 @@ ch { color: Plum }
         2. Christ has reconciled us and made us holy and blameless (1:21-23)
     3. We are alive in Christ, so we should walk in him (1:24 - 4:6)
         1. Paul suffers and struggles for the sake of the Colossians (1:24 - 2:5)
+            1. Paul rejoices that he can suffer to make known to the Colossians the mystery of Christ in us (1:24-29)
+            2. Paul struggles for the Colossians so that the may be encouraged to understand God's mystery (2:1-5)
         2. Christ made us alive in him, so we should walk in him (2:6-15)
         3. With Christ we died to ceremonial regulations, so we should not accept judgment for them (2:16-23)
         4. In Christ we died to sin and live to his righteous, so we should abstain from sin and walk in righteousness (3:1-17)
@@ -123,3 +125,20 @@ And <c>you, who</c> once were alienated and hostile in mind, doing evil deeds,
 <g>he</g> has now reconciles in <g>his</g> body of flesh by <g>his</g> death, in order to present <c>you</c> holy and blameless and above reproach before <g>him</g>,
 if indeed <c>you</c> continue in the faith, stable and steadfast,
 not shifting from the hope of the gospel that <c>you</c> heard, which \[the gospel\] has been proclaimed in all creation under heaven, and of which \[the gospel\] <pa>I, Paul</pa>, became a minister.
+
+Now I rejoice in my sufferings for your sake,
+and in my flesh I am filling up what is lacking in Christ's afflictions for the sake of his body,
+that is, the church,
+of which I became a minister according to the stewardship from God that was given to me for you,
+to make the word of God fully known,
+the mystery hidden for ages and generations but now revealed to his saints.
+To them God chose to make known how great among the Gentiles are the riches of the glory of this mystery, which is Christ in you, the hope of glory.
+Him we proclaim, warning everyone and teaching everyone with all wisdom, that we may present everyone mature in Christ.
+For this I toil, struggling with all his energy that he powerfully works within me.
+
+For I want you to know how great a struggle I have for you and for those at Laodicea and for all who have not seen me face to face,
+that their hearts may be encouraged, being knit together in love, to reach all the riches of full assurance of understanding and the knowledge of God's mystery,
+which is Christ, in whom are hidden all the treasures of wisdom and knowledge.
+I say this in order that no one may delude you with plausible arguments.
+For though I am absent in body, yet I am with you in spirit, rejoicing to see your good order and the firmness of your faith in Christ.
+
