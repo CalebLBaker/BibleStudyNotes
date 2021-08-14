@@ -126,15 +126,15 @@ And <c>you, who</c> once were alienated and hostile in mind, doing evil deeds,
 if indeed <c>you</c> continue in the faith, stable and steadfast,
 not shifting from the hope of the gospel that <c>you</c> heard, which \[the gospel\] has been proclaimed in all creation under heaven, and of which \[the gospel\] <pa>I, Paul</pa>, became a minister.
 
-Now I rejoice in my sufferings for your sake,
-and in my flesh I am filling up what is lacking in Christ's afflictions for the sake of his body,
-that is, the church,
-of which I became a minister according to the stewardship from God that was given to me for you,
-to make the word of God fully known,
-the mystery hidden for ages and generations but now revealed to his saints.
-To them God chose to make known how great among the Gentiles are the riches of the glory of this mystery, which is Christ in you, the hope of glory.
-Him we proclaim, warning everyone and teaching everyone with all wisdom, that we may present everyone mature in Christ.
-For this I toil, struggling with all his energy that he powerfully works within me.
+Now <pa>I</pa> rejoice in <pa>my</pa> sufferings for <c>your</c> sake,
+and in <pa>my</pa> flesh <pa>I</pa> am filling up what is lacking in <g>Christ's</g> afflictions for the sake of <c>his</c> <ch>body</ch>,
+that is, <ch>the church</ch>,
+of <ch>which</ch> <pa>I</pa> became a minister according to the stewardship from <g>God</g> that was given to <pa>me</pa> for <c>you</c>,
+to make the word of <g>God</g> fully known,
+the mystery hidden for ages and generations but now revealed to <ch>his saints</ch>.
+To <ch>them</ch> <g>God</g> chose to make known how great among the Gentiles are the riches of the glory of this mystery, which is **<g>Christ</g> in <c>you</c>,** ***the hope of glory.***
+<g>Him</g> <pa>we</pa> proclaim, warning everyone and teaching everyone with all wisdom, that <pa>we</pa> may present everyone **mature in <g>Christ</g>.**
+For this <pa>I</pa> toil, struggling with all **<g>his</g> energy that <g>he</g> powerfully works within <g>me</g>.**
 
 For I want you to know how great a struggle I have for you and for those at Laodicea and for all who have not seen me face to face,
 that their hearts may be encouraged, being knit together in love, to reach all the riches of full assurance of understanding and the knowledge of God's mystery,
