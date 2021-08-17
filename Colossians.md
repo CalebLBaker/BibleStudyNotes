@@ -136,9 +136,9 @@ To <ch>them</ch> <g>God</g> chose to make known how great among the Gentiles are
 <g>Him</g> <pa>we</pa> proclaim, warning everyone and teaching everyone with all wisdom, that <pa>we</pa> may present everyone **mature in <g>Christ</g>.**
 For this <pa>I</pa> toil, struggling with all **<g>his</g> energy that <g>he</g> powerfully works within <g>me</g>.**
 
-For I want you to know how great a struggle I have for you and for those at Laodicea and for all who have not seen me face to face,
-that their hearts may be encouraged, being knit together in love, to reach all the riches of full assurance of understanding and the knowledge of God's mystery,
-which is Christ, in whom are hidden all the treasures of wisdom and knowledge.
-I say this in order that no one may delude you with plausible arguments.
-For though I am absent in body, yet I am with you in spirit, rejoicing to see your good order and the firmness of your faith in Christ.
+For <pa>I</pa> want <c>you</c> to know how great a struggle <pa>I</pa> have for <c>you</c> and for <ch>those at Laodicea and for all who have not seen</ch> <pa>me</pa> <ch>face to face</ch>,
+that <ch>their</ch> hearts may be encouraged, being knit together in love, to reach all the riches of full assurance of understanding and the knowledge of <g>God's</g> mystery,
+which is <g>Christ</g>, ***in <g>whom</g> are hidden all the treasures of wisdom and knowledge.***
+<pa>I</pa> say this in order that no one may delude <c>you</c> with plausible arguments.
+For though <pa>I</pa> am absent in body, yet <pa>I</pa> am with you in spirit, rejoicing to see <c>your</c> good order and the firmness of <c>your</c> faith **in Christ.**
 
